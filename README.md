@@ -9,3 +9,5 @@ The Products API, written in Dotnet, is part of the Shopping Cart experience. It
 None
 
 ## Test
+
+## Lint
